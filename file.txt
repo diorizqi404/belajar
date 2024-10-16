@@ -2,3 +2,6 @@ hello world
 sjb;as
 
 halo sayangku
+ini saya lagi ngoding di gh baris ke 5
+
+ini saya lagi ngoding di gh baris ke 7
