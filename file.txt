@@ -2,5 +2,3 @@ hello world
 sjb;as
 
 halo sayangku
-ini saya lagi ngoding du vscode baris ke 5
-ini saya lagi ngoding di vscode baris ke 6
